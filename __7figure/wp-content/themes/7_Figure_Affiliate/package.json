@@ -1,0 +1,24 @@
+{
+  "name": "7_figure_affiliate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx assets/email/index.ts",
+    "send-email": "tsx assets/email/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.17",
+    "dotenv": "^16.4.7",
+    "resend": "^6.4.2",
+    "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.9.3"
+  }
+}
