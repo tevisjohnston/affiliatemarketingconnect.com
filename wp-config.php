@@ -26,7 +26,7 @@ define( 'DB_NAME', 'mysql-database-mkkso88ok8co84oww084s4gg' );
 define( 'DB_USER', 'mysql' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'gMZf8aDTHA7cQtDTMtmsRhoLrkCmya86q7VkYAOp7tXgNczfRYCLx4l1e8624raz' );
+define( 'DB_PASSWORD', '6Nq3mUimfsg0banMQ9AsPkMO2XmdEOqBxp3LAwfKvBbzB9smHzMzOABloPKkUz0D' );
 
 /** Database hostname */
 define( 'DB_HOST', '72.60.231.242' );
