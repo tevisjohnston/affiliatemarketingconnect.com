@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'mysql-database-mkkso88ok8co84oww084s4gg' );
+define( 'DB_NAME', 'default' );
 
 /** Database username */
 define( 'DB_USER', 'mysql' );
@@ -88,8 +88,6 @@ $table_prefix = 'wp_';
 define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
-
-define( 'WP_ALLOW_MULTISITE', true );
 
 
 
