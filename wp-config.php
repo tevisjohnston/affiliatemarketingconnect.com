@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'default' );
 
 /** Database username */
-define( 'DB_USER', 'mysql' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'gMZf8aDTHA7cQtDTMtmsRhoLrkCmya86q7VkYAOp7tXgNczfRYCLx4l1e8624raz' );
+define( 'DB_PASSWORD', '6Nq3mUimfsg0banMQ9AsPkMO2XmdEOqBxp3LAwfKvBbzB9smHzMzOABloPKkUz0D' );
 
 /** Database hostname */
 define( 'DB_HOST', '72.60.231.242' );
