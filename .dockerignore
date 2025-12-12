@@ -1,5 +1,4 @@
 .git
 .gitignore
 .DS_Store
-README.md
-docker-compose.yaml
+node_modules/
