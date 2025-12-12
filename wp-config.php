@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'wp_db_affiliate_market_connect' );
 
 /** Database username */
-define( 'DB_USER', 'wp' );
+define( 'DB_USER', 'wp_db_user' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'wp' );
+define( 'DB_PASSWORD', 'wp_db_password' );
 
 /** Database hostname */
-define( 'DB_HOST', '127.0.0.1' );
+define( 'DB_HOST', 'db:3306' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
